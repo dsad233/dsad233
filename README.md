@@ -3,7 +3,7 @@
 <p align="center"> ✨ Tech Stack ✨ </p>
 
 <div align="center">
-<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 </div>
 
 <!--
