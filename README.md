@@ -43,14 +43,21 @@
 <br>
 
 <div align="center">
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<a href="https://blog.naver.com/pinmode1247" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" />
 </div>
 
 <br>
 <br>
 
-<p align="center"> 🤙  🤙 </p>
+<p align="center"> 🤙 Connect 🤙 </p>
+
+<br>
+
+<div>
+<a href="https://blog.naver.com/pinmode1247" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" />
+</div>
 
 <!--
 **dsad233/dsad233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
