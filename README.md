@@ -55,7 +55,7 @@
 <br>
 
 <div align="center">
-<a href="https://blog.naver.com/pinmode1247" target="_blank"><img src="https://play-lh.googleusercontent.com/bD7OB8fBMwCVeKng6NUTjVwpaVxx87DApHnC6NC5wzXOlQ1YuCC83hAaIfJYyS1dGQ=w240-h480-rw" />
+<a href="https://blog.naver.com/pinmode1247" target="_blank"><img src="https://banner2.cleanpng.com/20180806/oqx/kisspng-naver-blog-logo-computer-icons-%EC%86%8C%EC%85%9C%EB%9F%AC%EB%8B%9D-%EB%8B%AC%EB%8B%A4-%EC%BD%98-5b686791b44591.7849416415335689137384.jpg" />
 </div>
 
 <br>
