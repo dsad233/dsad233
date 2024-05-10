@@ -1,4 +1,4 @@
-### <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=Hi,%20Hello%20dsad233%20GitHub&fontSize=100" />
+### <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=Hi,%20Hello%20dsad233%20GitHub&fontSize=30" />
 
 <p align="center"> ✨ Tech Stack ✨ </p>
 
