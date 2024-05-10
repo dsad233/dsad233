@@ -55,7 +55,7 @@
 <br>
 
 <div align="center">
-<a href="https://blog.naver.com/pinmode1247" target="_blank"><img src="https://banner2.cleanpng.com/20180806/oqx/kisspng-naver-blog-logo-computer-icons-%EC%86%8C%EC%85%9C%EB%9F%AC%EB%8B%9D-%EB%8B%AC%EB%8B%A4-%EC%BD%98-5b686791b44591.7849416415335689137384.jpg" />
+<a href="https://blog.naver.com/pinmode1247" target="_blank"><img src="http://wiki.hash.kr/images/a/a1/%EB%84%A4%EC%9D%B4%EB%B2%84_%EB%B8%94%EB%A1%9C%EA%B7%B8_%EB%A1%9C%EA%B3%A0.png" />
 </div>
 
 <br>
