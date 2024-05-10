@@ -19,7 +19,7 @@
 <br>
 <br>
 
-<p align="center"> 📚 Studyinag 📚 </p>
+<p align="center"> 📚 Studying 📚 </p>
 
 <br>
 
