@@ -43,7 +43,7 @@
 <br>
 
 <div align="center">
-<a href="https://code.visualstudio.com" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<a href="https://code.visualstudio.com" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&margin='30px'" />
 <a href="https://insomnia.rest" target="_blank"><img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" />
 </div>
 
@@ -54,7 +54,7 @@
 
 <br>
 
-<div>
+<div align="center">
 <a href="https://blog.naver.com/pinmode1247" target="_blank"><img src="https://play-lh.googleusercontent.com/bD7OB8fBMwCVeKng6NUTjVwpaVxx87DApHnC6NC5wzXOlQ1YuCC83hAaIfJYyS1dGQ=w240-h480-rw" />
 </div>
 
