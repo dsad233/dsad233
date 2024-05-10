@@ -55,7 +55,7 @@
 <br>
 
 <div>
-<a href="https://blog.naver.com/pinmode1247" target="_blank"><img src="http://wiki.hash.kr/index.php/%ED%8C%8C%EC%9D%BC:%EB%84%A4%EC%9D%B4%EB%B2%84_%EB%B8%94%EB%A1%9C%EA%B7%B8_%EB%A1%9C%EA%B3%A0.png" />
+<a href="https://blog.naver.com/pinmode1247" target="_blank"><img src="https://play-lh.googleusercontent.com/bD7OB8fBMwCVeKng6NUTjVwpaVxx87DApHnC6NC5wzXOlQ1YuCC83hAaIfJYyS1dGQ=w240-h480-rw" />
 </div>
 
 <br>
