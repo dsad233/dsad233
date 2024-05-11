@@ -42,6 +42,7 @@
 <br>
 
 <div align="center">
+<a href="https://www.git-scm.com" target="_blank"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /></a>
 <a href="https://github.com" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
@@ -61,6 +62,7 @@
 
 <div align="center">
 <a href="https://blog.naver.com/pinmode1247" target="_blank"><img src="http://wiki.hash.kr/images/a/a1/%EB%84%A4%EC%9D%B4%EB%B2%84_%EB%B8%94%EB%A1%9C%EA%B7%B8_%EB%A1%9C%EA%B3%A0.png" width="50px" height="50px" /></a>
+<a href="ksl1421@naver.com" target="_blank"><img src="https://icons-for-free.com/iff/png/256/book+contact+contacts+email+naver+square+icon-1320073246444056774.png" width="50px" height="50px" /></a>
 </div>
 
 <br>
