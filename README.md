@@ -68,8 +68,6 @@
 <br>
 <br>
 
-<a href="http://google.com" target="_blank"><img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white"/></a>
-
 <!--
 **dsad233/dsad233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
