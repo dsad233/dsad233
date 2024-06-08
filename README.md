@@ -57,7 +57,7 @@
 <br>
 <br>
 
-<p align="center"> 🤙 Connect 🤙 </p>
+<p align="center"> 🤙 Contact 🤙 </p>
 
 <br>
 
