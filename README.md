@@ -10,10 +10,7 @@
 <br>
 
 <div align="center">
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 <a href="https://www.javascript.com" target="_blank"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></a>
-<a href="https://handlebarsjs.com" target="_blank"><img src="https://img.shields.io/badge/handlebars-000000?style=for-the-badge&logo=handlebars&logoColor=white"></a>
 <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></a>
 </div>
 
@@ -54,6 +51,11 @@
 <a href="https://www.git-scm.com" target="_blank"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /></a>
 <a href="https://github.com" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://docs.github.com/actions" target="_blank"><img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" /></a>
+</div>
+
+<div align="center">
+<a href="https://handlebarsjs.com" target="_blank"><img src="https://img.shields.io/badge/handlebars-000000?style=for-the-badge&logo=handlebars&logoColor=white"></a>
+<a href="https://ejs.co" target="_blank"><img src="https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black"></a>
 <a href="https://jestjs.io" target="_blank"><img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" /></a>
 </div>
 
