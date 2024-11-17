@@ -28,7 +28,8 @@
 <div align="center">
 <a href="https://www.mysql.com" target="_blank"><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" /></a>
 <a href="https://www.postgresql.org" target="_blank"><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
-<a href="https://docs.github.com/actions" target="_blank"><img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" /></a>
+<a href="https://www.docker.com" target="_blank"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /></a>
+<a href="https://docs.docker.com/compose" target="_blank"><img src="https://img.shields.io/badge/docker%20compose-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /></a>
 </div>
 
 <br>
@@ -39,7 +40,6 @@
 <br>
 
 <div align="center">
-<a href="https://www.docker.com" target="_blank"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /></a>
 <a href="https://redis.io" target="_blank"><img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" /></a>
 </div>
 
@@ -53,9 +53,9 @@
 <div align="center">
 <a href="https://www.git-scm.com" target="_blank"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /></a>
 <a href="https://github.com" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://docs.github.com/actions" target="_blank"><img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" /></a>
+<a href="https://jestjs.io" target="_blank"><img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" /></a>
 </div>
-
-<br>
 
 <div align="center">
 <a href="https://code.visualstudio.com" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
@@ -70,8 +70,8 @@
 <br>
 
 <div align="center">
-<a href="https://blog.naver.com/pinmode1247" target="_blank"><img src="http://wiki.hash.kr/images/a/a1/%EB%84%A4%EC%9D%B4%EB%B2%84_%EB%B8%94%EB%A1%9C%EA%B7%B8_%EB%A1%9C%EA%B3%A0.png" width="50px" height="50px" /></a>
-<a href="mailto:ksl1421@naver.com" target="_blank"><img src="https://icons-for-free.com/iff/png/256/book+contact+contacts+email+naver+square+icon-1320073246444056774.png" width="50px" height="50px" /></a>
+<a href="https://blog.naver.com/pinmode1247" target="_blank"><img src="https://img.shields.io/badge/Naver%20Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white" /></a>
+<a href="mailto:ksl1421@naver.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 <br>
