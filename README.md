@@ -46,7 +46,7 @@
 <br>
 <br>
 
-<p align="center"> 🛠 Tools 🛠 </p>
+<p align="center"> 🛠 Tools & Services 🛠 </p>
 
 <br>
 
