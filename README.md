@@ -26,8 +26,17 @@
 </div>
 
 <div align="center">
+<a href="https://www.crummy.com/software/BeautifulSoup" target="_blank"><img src="https://img.shields.io/badge/BeautifulSoup4-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" /></a>
+<a href="https://www.selenium.dev" target="_blank"><img src="https://img.shields.io/badge/selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white" /></a>
+</div>
+
+<div align="center">
+<a href="https://www.mongodb.com" target="_blank"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
 <a href="https://www.mysql.com" target="_blank"><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" /></a>
 <a href="https://www.postgresql.org" target="_blank"><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
+</div>
+
+<div align="center">
 <a href="https://www.docker.com" target="_blank"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /></a>
 <a href="https://docs.docker.com/compose" target="_blank"><img src="https://img.shields.io/badge/docker%20compose-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /></a>
 </div>
@@ -81,18 +90,3 @@
 
 <br>
 <br>
-
-<!--
-**dsad233/dsad233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
